@@ -1,0 +1,10 @@
+# config/projects.yaml
+
+projects:
+  - "Multi-omics"
+  - "Spatial Transcriptomics Project"
+  - "Core Work"
+  - "Metagenomics Project"
+  - "Meetings"
+  - "scRNAseq_Project1"
+  - "scRNAseq_Project2"
